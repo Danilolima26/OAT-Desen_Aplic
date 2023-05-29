@@ -6,7 +6,6 @@ void main() {
 
 class Game {
   final String nome;
-
   final int anoLancamento;
   final String plataforma;
   final String imagePath;
