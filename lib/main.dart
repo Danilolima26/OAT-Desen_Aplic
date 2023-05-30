@@ -9,6 +9,7 @@ class Game {
   final int anoLancamento;
   final String plataforma;
   final String imagePath;
+  
 
   Game(
       {required this.nome,
